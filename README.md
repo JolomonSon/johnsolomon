@@ -1,6 +1,6 @@
 ## John Solomon 
 
-### Web development
+### Web Development
 ### Artificial Intelligence
 ### Machine Learning
 
