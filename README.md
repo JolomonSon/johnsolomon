@@ -1,6 +1,8 @@
 ## John Solomon 
 
-### Web development and Data Science 
+### Web development
+### Artificial Intelligence
+### Machine Learning
 
 ## GitHub Stats <!-- <p align=left> <img src=https://komarev.com/ghpvc/?username=Cradoe alt=Cradoe /> </p> --> 
 
