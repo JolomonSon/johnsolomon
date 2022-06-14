@@ -4,7 +4,7 @@
 ### Artificial Intelligence
 ### Machine Learning
 
-## GitHub Stats <!-- <p align=left> <img src=https://komarev.com/ghpvc/?username=Cradoe alt=Cradoe /> </p> --> 
+
 
 | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JolomonSon&show_icons=true&include_all_commits=true&theme=aura&hide_border=true" alt="github stats"/></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JolomonSon&layout=compact&theme=aura&hide_border=true" /></a> |
 | ------------- | ------------- | 
